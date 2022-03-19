@@ -1,0 +1,12 @@
+"*":
+  core:
+    disabledPackages: [
+      "styleguide"
+    ]
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 15
+  "exception-reporting":
+    userId: "6e6c6f22-4c5c-476c-b3b4-4d9c21a49f8b"
+  teletype:
+    askBeforeJoiningPortalViaExternalApp: false

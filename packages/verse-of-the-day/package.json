@@ -1,0 +1,64 @@
+{
+  "_from": "https://www.atom.io/api/packages/verse-of-the-day/versions/0.1.0/tarball",
+  "_id": "verse-of-the-day@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-wpFK0jeCGx0Kd3AzFOLEl2zjLJCbPB5F2A0Z0rhZ/gyvNhBVCCRwsPOjmOm9HpOqq4JBHulrxkpk60KlnWeiUg==",
+  "_location": "/verse-of-the-day",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/verse-of-the-day/versions/0.1.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/verse-of-the-day/versions/0.1.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/verse-of-the-day/versions/0.1.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/verse-of-the-day/versions/0.1.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/verse-of-the-day/versions/0.1.0/tarball",
+  "_shasum": "879bd3f97de9b0c668e591046f10dff8a3cecebe",
+  "_spec": "https://www.atom.io/api/packages/verse-of-the-day/versions/0.1.0/tarball",
+  "_where": "C:\\Users\\dasho\\AppData\\Local\\Temp\\apm-install-dir-2022213-7672-4ax3b8.giu8p",
+  "author": {
+    "name": "Johannes Neugschwentner"
+  },
+  "bugs": {
+    "url": "https://github.com/joehannes-atom/verseoftheday/issues"
+  },
+  "bundleDependencies": false,
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "contributors": [
+    {
+      "name": "Johannes Neugschwentner",
+      "email": "johannes.neugschwentner@gmail.com",
+      "url": "stackoverflow.com/cv/joehannes"
+    }
+  ],
+  "deprecated": false,
+  "description": "A VOTD for the atomic geek",
+  "engines": {
+    "atom": ">=1.2.0"
+  },
+  "homepage": "https://atom.io/packages/verse-of-the-day",
+  "keywords": [
+    "bible",
+    "verse",
+    "votd",
+    "scripture"
+  ],
+  "license": "MIT",
+  "main": "./lib/verseoftheday",
+  "name": "verse-of-the-day",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joehannes-atom/verseoftheday.git"
+  },
+  "version": "0.1.0"
+}
