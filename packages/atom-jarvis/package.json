@@ -1,0 +1,53 @@
+{
+  "_from": "https://www.atom.io/api/packages/atom-jarvis/versions/1.1.0/tarball",
+  "_id": "atom-jarvis@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-35rfSP090h2DVKveKm46iIRSRquP9WXOPspyB0Zbjgr9Zw+OOA/1dzb/sa4a/WQYfqF+pK42gKbW/EgYV1M/8A==",
+  "_location": "/atom-jarvis",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atom-jarvis/versions/1.1.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atom-jarvis/versions/1.1.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atom-jarvis/versions/1.1.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atom-jarvis/versions/1.1.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/atom-jarvis/versions/1.1.0/tarball",
+  "_shasum": "fb5d77be1467ac562cc32b0da2864ff21d658663",
+  "_spec": "https://www.atom.io/api/packages/atom-jarvis/versions/1.1.0/tarball",
+  "_where": "C:\\Users\\dasho\\AppData\\Local\\Temp\\apm-install-dir-2022213-10264-41100r.bx2o",
+  "activationCommands": {
+    "atom-workspace": "atom-jarvis:toggle"
+  },
+  "activationHooks": [
+    "language-javascript:grammar-used",
+    "language-coffee-script:grammar-used"
+  ],
+  "bugs": {
+    "url": "https://github.com/gojarvis/atom-jarvis/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "socket.io": "^1.3.6",
+    "socket.io-client": "^1.3.6"
+  },
+  "deprecated": false,
+  "description": "Jarvis Atom Plugin",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/gojarvis/atom-jarvis#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/atom-jarvis",
+  "name": "atom-jarvis",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gojarvis/atom-jarvis.git"
+  },
+  "version": "1.1.0"
+}
