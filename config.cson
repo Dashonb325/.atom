@@ -2,6 +2,7 @@
   core:
     disabledPackages: [
       "styleguide"
+      "teletype"
     ]
     telemetryConsent: "limited"
   editor:

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Run line-commands",
+        "command": "line-commands:run"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "line-commands",
+          "submenu": [
+            {
+              "label": "Run",
+              "command": "line-commands:run"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

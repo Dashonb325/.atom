@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Npm start your selected react project",
+        "command": "npm-start:npmStart"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "npm-start",
+          "submenu": [
+            {
+              "label": "Npm start your selected react project",
+              "command": "npm-start:npmStart"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

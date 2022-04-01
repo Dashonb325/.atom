@@ -1,0 +1,49 @@
+{
+  "_from": "https://www.atom.io/api/packages/line-commands/versions/0.3.0/tarball",
+  "_id": "line-commands@0.3.0",
+  "_inBundle": false,
+  "_integrity": "sha512-76LN5o+rIiU/glDrGoDgwmXJROTUEsq9mM9p//rYYghYqCbDrcBOfarvXzz+DGdL3jKCZi40JYppHDcluhmnAA==",
+  "_location": "/line-commands",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/line-commands/versions/0.3.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/line-commands/versions/0.3.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/line-commands/versions/0.3.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/line-commands/versions/0.3.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/line-commands/versions/0.3.0/tarball",
+  "_shasum": "3c8bd1c715eb0e937283801f6f2ccf6cd5b8679f",
+  "_spec": "https://www.atom.io/api/packages/line-commands/versions/0.3.0/tarball",
+  "_where": "C:\\Users\\dasho\\AppData\\Local\\Temp\\apm-install-dir-2022230-30604-1p6egqg.lgem",
+  "activationCommands": {
+    "atom-workspace": "line-commands:run"
+  },
+  "bugs": {
+    "url": "https://github.com/mguid65/line-commands/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "An in document command engine. Custom commands can be run directly from inside a document",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/mguid65/line-commands#readme",
+  "keywords": [
+    "commands",
+    "line"
+  ],
+  "license": "MIT",
+  "main": "./lib/line-commands",
+  "name": "line-commands",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mguid65/line-commands.git"
+  },
+  "version": "0.3.0"
+}

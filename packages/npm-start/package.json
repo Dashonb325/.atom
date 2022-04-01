@@ -1,0 +1,46 @@
+{
+  "_from": "https://www.atom.io/api/packages/npm-start/versions/0.5.0/tarball",
+  "_id": "npm-start@0.5.0",
+  "_inBundle": false,
+  "_integrity": "sha512-EAoCHxZr00nd+HcHjETQA6LmtPGweFS6H1DdOVKt/30OQ6kbyPVUlKVixNJ9qeM4rPLMjNrrpddU0T8hUe/RYQ==",
+  "_location": "/npm-start",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/npm-start/versions/0.5.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/npm-start/versions/0.5.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/npm-start/versions/0.5.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/npm-start/versions/0.5.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/npm-start/versions/0.5.0/tarball",
+  "_shasum": "07626940f0b368a49d2d259a1e909bb67d28bf28",
+  "_spec": "https://www.atom.io/api/packages/npm-start/versions/0.5.0/tarball",
+  "_where": "C:\\Users\\dasho\\AppData\\Local\\Temp\\apm-install-dir-2022230-30488-rneiqr.9dv09",
+  "activationCommands": {
+    "atom-workspace": "npm-start:npmStart"
+  },
+  "bugs": {
+    "url": "https://github.com/APKIOSK-Sacha/npm-start/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Launch npm start command from current working project",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/APKIOSK-Sacha/npm-start#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/npm-start",
+  "name": "npm-start",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/APKIOSK-Sacha/npm-start.git"
+  },
+  "version": "0.5.0"
+}
